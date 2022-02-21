@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extension format="1.0">
+  <extension_code>itop-al-airconditioner</extension_code>
+  <version>1.1.0</version>
+  <release_date>2022-02-15</release_date>
+  <label><![CDATA[Air conditioner]]></label>
+  <description><![CDATA[Add Air conditioner object]]></description>
+  <mandatory>false</mandatory>
+  <more_info_url></more_info_url>
+  <itop_version_min>2.6.0</itop_version_min>
+  <status>stable</status>
+  <mandatory>false</mandatory>
+</extension>
